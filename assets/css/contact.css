@@ -1,0 +1,10 @@
+.cont-content {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+@media (max-width: 776px) {
+  .cont-content {
+    height: auto;
+  }
+}
