@@ -10,7 +10,7 @@ textarea {
   padding: 0.75rem;
   border-radius: 0.375rem;
   color: black; /* White text */
-  border: 1px solid transparent;
+  border: 1px solid black;
 }
 .tt{
   color: black;
